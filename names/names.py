@@ -36,8 +36,8 @@ print (f"runtime: {end_time - start_time} seconds")
 '''
 Current run time of the starter code has nested for loops, which makes our inner
 loop run each time. Our outer loop is running, and they are the same length of
-10,000, we are looking at 0(n^2). By implementing our binary search tree, it has
-an 0(log n) time complexity. 
+10,000, we are looking at O(n^2). By implementing our binary search tree, it has
+an O(log n) time complexity. 
 '''
 
 # Improved Run Time = 0.006 seconds
